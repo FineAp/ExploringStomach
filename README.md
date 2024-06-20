@@ -45,4 +45,6 @@ Start your adventure now with 'Exploring Stomach' and discover the fascinating j
 
 BUILD LINK: https://drive.google.com/drive/folders/15BJlpTtY0jGMrOXdYlsu91B7LFGexqHN?usp=sharing
 
+Play Video: https://youtu.be/6UA7WJ1zM1c
+
 ![KakaoTalk_20240620_154927194](https://github.com/FineAp/ExploringStomach/assets/143973266/e5972f8c-15fc-4bdc-806d-cf6a5973ef66)
